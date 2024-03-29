@@ -1,6 +1,6 @@
 import streamlit as st
 # streamlit run app.py
-st.title("Streamlit Demo Manifold AI learning Murthy")
+st.title("Streamlit Demo AI learning SYAHIR HALIM!")
 
 st.header(" Heading of Streamlit")
 
